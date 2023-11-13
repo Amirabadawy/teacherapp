@@ -20,6 +20,7 @@
 - Clone the project using "git clone 'url of the project'
 
 ## Tech Stack:
+
 -JAVA language
 
 -Appium
