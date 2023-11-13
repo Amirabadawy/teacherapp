@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Teacher App Test Suite">
+
+    <test name="Teacher App">
+        <classes>
+            <class name="com.screens.BaseScreen"/>
+            <class name="com.tests.create_course.TeacherTestRunner"/>
+        </classes>
+    </test>
+</suite>
