@@ -9,7 +9,7 @@
 4. install Appium Server using npm (CLI) command npm install -g appium.
    Command to check the installed appium version: `appium --version`
 5. Add below Android SDK path in the environment variable
-    - ANDROID_HOME = <path to Sdk folder>
+    - ANDROID_HOME = <path SDK folder>
     - %ANDROID_HOME%\tools
     - %ANDROID_HOME%\tools\bin
     - %ANDROID_HOME%\platform-tools
