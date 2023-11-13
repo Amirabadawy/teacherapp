@@ -21,6 +21,11 @@
 
 ## Tech Stack:
 -JAVA language
+
 -Appium
-- Cucumber
+
+-Cucumber
+
 -Page Object Model
+
+-Allure Report
